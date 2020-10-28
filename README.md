@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hi, My Name is Samit
 
 
 
-Here are some ideas to get you started:
+I'm a freshman CS undergrad, interested in algorithms 
 
-- 🔭 I’m currently working on ... Python
-- 🌱 I’m currently learning ... C
-- 📫 How to reach me: ... Instagram
-- 😄 Pronouns: ... He/Him
+Interested and pursuing skills related to
+ - Python
+ - C
+ - Algorithms
 
--->
+## Connect with me
+- [YouTube](www.youtube.com/samitmohan)
+- [Twitter](www.twitter.com/rajabetaa)
+- [Instagram](www.instagram.com/samitmohan)
