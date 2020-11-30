@@ -1,5 +1,4 @@
-# Hi
+# freshman CS undergrad
 
-I'm a freshman CS undergrad, interested in algorithms 
 https://samitmohan.github.io/
 
