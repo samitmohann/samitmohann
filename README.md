@@ -1,4 +1,4 @@
-Always a beginner | I know how to exit vim.
+currently learning algorithms and solving problems.
 
 
 
