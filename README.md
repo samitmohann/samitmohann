@@ -1,8 +1,3 @@
-**ABOUT ME!!**
-
-
-
-
-no one cares about your stupid readme.
+no one cares about this readme.
 
 ![](https://komarev.com/ghpvc/?username=samitmohan)
